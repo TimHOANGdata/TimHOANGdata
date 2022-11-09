@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Tim - a chemical engineering student who is interested in data science.
-- 🌱 I’m currently learning data analytics
+- 👋 Hi, I’m Tim - a chemical engineering student who is interested in data science and CS.
+- 🌱 I’m currently learning data analytics and JAVA.
 
 
 <!---
